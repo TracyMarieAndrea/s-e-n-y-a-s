@@ -1,0 +1,30 @@
+Afternoon/Hapon
+Baby/Sanggol
+Bad/Masama
+Brother/Kuya
+Danger/Panganib
+Difficult/Mahirap
+Easy/Madali
+Evening/Gabi
+Fast/Mabilis
+Father/Ama
+Good/Mabuti/Magandang
+High/Mataas
+How/Paano
+Low/Mababa
+Morning/Umaga
+Mother/Ina 
+No/Hindi
+Noon/Tanghali
+Run/Takbo
+Sister/Ate
+Stop/Huminto
+Thank You/Salamat
+Wait/Hintay
+Welcome/Walang Anuman
+What/Ano
+When/Kailan
+Where/Saan
+Who/Sino
+Why/Bakit
+Yes/Oo
